@@ -7,5 +7,5 @@ spring-boot-study
 
 
 ## 다음 강의
-[섹션 4 - 1 : 컴포넌트 스캔과 자동 의존관계 설정](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/unit/49586)
+[섹션 4 - 2 : 회원 웹 기능 - 조회](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/unit/49591)
 
